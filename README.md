@@ -1,3 +1,2 @@
 # It's Me
-Big man Hamada
-Stay frosty
+Big man Hamada. We shall no longer stay frosty. Sorry. We chill now
