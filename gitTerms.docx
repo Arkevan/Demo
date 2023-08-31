@@ -1,0 +1,5 @@
+Create git repo (repository)
+In vscode, open terminal and use command "git clone (SSH key/HTTPS)
+Use "git status" to check files modified and comitted
+Use "git commit" to commit file; use -m to specify placeholder and -m again for description or write desc in file
+Use "git push" to push changes to the github repo
